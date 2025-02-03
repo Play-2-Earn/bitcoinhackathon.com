@@ -181,7 +181,7 @@ function App() {
       </Grid>
 
       <CtaButton
-        href="https://www.b1tcoin.ai/"
+        href="https://www.ycx.ai/"
         target="_blank"
         rel="noopener noreferrer"
         initial={{ scale: 0.9 }}
@@ -189,7 +189,7 @@ function App() {
         whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.95 }}
       >
-        Register Now
+        Explore YCX
       </CtaButton>
 
       <div style={{ marginTop: "3rem", opacity: 0.8 }}>
